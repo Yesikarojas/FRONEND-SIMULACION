@@ -1,0 +1,17 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Estilo para el contenedor de GetStudents */
+.get-students-container {
+  background-color: #537AC7; /* Puedes cambiar este color según tus necesidades */
+  padding: 20px; /* Agrega un poco de padding si es necesario */
+  border-radius: 10px; /* Opcional: agrega un borde redondeado */
+  flex: 1;
+}
+.navbar-rounded {
+  border-radius: 10px; /* Ajusta el valor según lo que necesites */
+  overflow: hidden; /* Para asegurarte de que el contenido no se desborde */
+}
